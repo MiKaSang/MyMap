@@ -9,3 +9,7 @@ This is my first ArcEngine project and I submit my codes to the net firtly. Actu
 * BookMark(new `Bookmark`/`BookmarkManager`) 
 * OverView
 * SymbologyManager(Not yet fully completed)
+
+###To be completed
+* Layerout View
+* Attribute Table `Query`
