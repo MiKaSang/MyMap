@@ -9,6 +9,7 @@ This is my first ArcEngine project I submit to the net . Actually,I was a green 
 * BookMark(new `Bookmark`/`BookmarkManager`) 
 * OverView
 * SymbologyManager(Not yet fully completed)
+* Layerout View
 ###Demo
 
 ![文件](https://raw.githubusercontent.com/MiKaSang/Demo-Picture/master/File%20Operation.jpg)
@@ -20,5 +21,4 @@ This is my first ArcEngine project I submit to the net . Actually,I was a green 
 ![符号管理](https://raw.githubusercontent.com/MiKaSang/Demo-Picture/master/SymbologyManager.jpg)
 
 ###To be completed
-* Layerout View
 * Attribute Table `Query`
