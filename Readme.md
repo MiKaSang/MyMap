@@ -8,8 +8,12 @@
 * BookMark(new `Bookmark`/`BookmarkManager`) 
 * OverView
 * SymbologyManager(Not yet fully completed)
-###Demo
+* Synchronous between `Layout ` and `Mapcontrol`
+* AttributeQuery and SpatialQuery
+* Close/Open the layer on the MapControl/TOCControl by Rigth-click
+* OpenFile on Layers and MapControl
 
+###Demo
 ![文件](https://raw.githubusercontent.com/MiKaSang/Demo-Picture/master/File%20Operation.jpg)
 
 ![书签](https://raw.githubusercontent.com/MiKaSang/Demo-Picture/master/BookMark.jpg)
@@ -18,5 +22,4 @@
 
 ![符号管理](https://raw.githubusercontent.com/MiKaSang/Demo-Picture/master/SymbologyManager.jpg)
 ###To be completed
-* Layerout View
-* Attribute Table `Query`
+* Display of status information when Mouse move on MapControl
