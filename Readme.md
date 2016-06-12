@@ -4,7 +4,7 @@
 
 ### Implemented functions 
 * File operation(open doc/new/save/save as/exit) 
-* Synchronous display between `TOOControl` and`MapControl`
+* Synchronous display between `TOCControl` and`MapControl`
 * BookMark(new `Bookmark`/`BookmarkManager`) 
 * OverView
 * SymbologyManager(Not yet fully completed)
