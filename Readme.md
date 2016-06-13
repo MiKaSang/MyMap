@@ -8,7 +8,7 @@
 * BookMark(new `Bookmark`/`BookmarkManager`) 
 * OverView
 * SymbologyManager(Not yet fully completed)
-* Synchronous between `Layout ` and `Mapcontrol`
+* Synchronous between `PageLayout ` and `Mapcontrol`
 * AttributeQuery and SpatialQuery
 * Close/Open the layer on the MapControl and TOCControl by Rigth-click
 * OpenFile on MapControl
